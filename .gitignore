@@ -1,5 +1,8 @@
 /dataset/sourcedata/
 /dataset/derivatives/
+/dataset/*
+!/dataset/README.md
+!/dataset/updateNotice.pdf
 /cache/
 /logs/
 /results/
